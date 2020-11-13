@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Tunts (https://tunts.rocks/)
 
-🌱 I’m currently learning TDD, Clean Architecture and Docker
+🌱 I’m currently learning Flutter, Node, Clean Architecture and Docker
 
 🤔 I’m looking for help with Patterns and Kubernets
 
